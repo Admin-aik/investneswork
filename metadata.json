@@ -1,0 +1,6 @@
+{
+  "name": "Invest Network — Remodelación y Construcción Inteligente",
+  "description": "Plataforma PropTech 3D de adquisición inmobiliaria, remodelación asistida por IA, subastas flash, sindicación bancaria en EE. UU. y gemelos digitales con retornos verificados.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

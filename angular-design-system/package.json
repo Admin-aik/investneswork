@@ -1,0 +1,21 @@
+{
+  "name": "@invesnetwork/design-system-angular",
+  "version": "1.0.0",
+  "description": "Official InvesNetwork Design System for Angular 17/18/19 Standalone Components",
+  "main": "public-api.ts",
+  "keywords": [
+    "angular",
+    "design-system",
+    "invesnetwork",
+    "standalone-components",
+    "fintech",
+    "real-estate"
+  ],
+  "author": "InvesNetwork Architectural Team",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "@angular/common": "^17.0.0 || ^18.0.0 || ^19.0.0",
+    "@angular/core": "^17.0.0 || ^18.0.0 || ^19.0.0",
+    "@angular/forms": "^17.0.0 || ^18.0.0 || ^19.0.0"
+  }
+}
